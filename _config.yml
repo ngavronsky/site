@@ -19,7 +19,7 @@ social:
 navigation: # Navigation links
   - {name: 'Portfolio', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Writings', link: 'medium.com'}
+  - {name: 'Writings', link: '/writings'}
 
 tagline: >
   Product leader. Brand builder. 
