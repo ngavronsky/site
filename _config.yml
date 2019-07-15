@@ -19,12 +19,12 @@ social:
 navigation: # Navigation links
   - {name: 'Portfolio', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Writings', link: 'medium.com'}
 
 tagline: >
-  Lessons from scaling DTC brands
+  Product leader. Brand builder.
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/sleek_lg_ng.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: ngavronsky@gmail.com # email for form submission
 
