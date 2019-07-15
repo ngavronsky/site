@@ -22,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Writings', link: 'medium.com'}
 
 tagline: >
-  Product leader. Brand builder.
+  Product leader. Brand builder. 
 
 hero_img: posts/sleek_lg_ng.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
