@@ -17,9 +17,9 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Portfolio', link: '/'}
+  - {name: 'Work', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Writings', link: '/writings'}
+  - {name: 'Writings', link: 'https://medium.com/@nmgav'}
 
 tagline: >
   Product leader. Brand builder. 
