@@ -16,6 +16,6 @@ When he’s not building and designing products, Nick can be found hanging out i
 
 ## What I Talk About
 
-Designing a Magical Onboarding Experience
+[Designing a Magical Onboarding Experience](http://www.youtube.com/watch?v=WCcs8HAUUiQ)
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/WCcs8HAUUiQ/0.jpg)](http://www.youtube.com/watch?v=WCcs8HAUUiQ)
