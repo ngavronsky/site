@@ -3,7 +3,7 @@ title: Nick Gavronsky # your site title
 author: Nick # You :P
 description: > # Meta description of Homepage
   Product Leader. Brand Builder. 
-baseurl: "/site" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ngavronsky.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
