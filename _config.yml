@@ -2,7 +2,7 @@
 title: Nick Gavronsky # your site title
 author: Nick # You :P
 description: > # Meta description of Homepage
-  Product Leader. Brand Builder. 
+  2x Founder. Product Leader. Brand Builder. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://productminded.me" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -22,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Writings', link: 'https://medium.com/@nmgav'}
 
 tagline: >
-  Product leader. Brand builder. 
+  2x Founder. Product leader. Brand builder. 
 
 hero_img: posts/sleek_lg_ng.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
