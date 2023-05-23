@@ -36,6 +36,6 @@ When he’s not building and designing products, Nick can be found spending time
 
 [Product Led Founder Podcast](https://open.spotify.com/show/25BhRjNNh70TQW1dYyNgNw)
 
-[![IMAGE ALT TEXT HERE](https://media.licdn.com/dms/image/C4E22AQGzqp9nNNrZOw/feedshare-shrink_800/0/1674053958164?e=1677715200&v=beta&t=D3BX_NJF2Usxfuxt8SW_HOtnSWlNewhQS_Xua9w5nIg)](https://open.spotify.com/show/25BhRjNNh70TQW1dYyNgNw)
+[![IMAGE ALT TEXT HERE](https://media.licdn.com/dms/image/C4E22AQGzqp9nNNrZOw/feedshare-shrink_2048_1536/0/1674053958146?e=1687996800&v=beta&t=OoVaIOohXkYlrgBMeeeBu8x09DSskDsbzTKhIXEOPYs)](https://open.spotify.com/show/25BhRjNNh70TQW1dYyNgNw)
 
 [Frontier Podcast: Behind the Scenes](https://podcasts.apple.com/us/podcast/nick-gavronsky/id1438044863?i=1000525599410)
